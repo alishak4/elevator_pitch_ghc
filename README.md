@@ -1,2 +1,2 @@
 # elevator_pitch_ghc
-Elevator pitch
+Scrollama for interactive website
